@@ -1,0 +1,19 @@
+C:\Users\rootah\documents\visual studio 2012\Projects\gebase alpha 0.2.1\gebase alpha 0.2.1\bin\Debug\gebase alpha 0.2.1.exe.config
+C:\Users\rootah\documents\visual studio 2012\Projects\gebase alpha 0.2.1\gebase alpha 0.2.1\bin\Debug\gebase alpha 0.2.1.exe
+C:\Users\rootah\documents\visual studio 2012\Projects\gebase alpha 0.2.1\gebase alpha 0.2.1\bin\Debug\gebase alpha 0.2.1.pdb
+C:\Users\rootah\documents\visual studio 2012\Projects\gebase alpha 0.2.1\gebase alpha 0.2.1\bin\Debug\MongoDB.Bson.dll
+C:\Users\rootah\documents\visual studio 2012\Projects\gebase alpha 0.2.1\gebase alpha 0.2.1\bin\Debug\MongoDB.Driver.dll
+C:\Users\rootah\documents\visual studio 2012\Projects\gebase alpha 0.2.1\gebase alpha 0.2.1\bin\Debug\MongoDB.Bson.pdb
+C:\Users\rootah\documents\visual studio 2012\Projects\gebase alpha 0.2.1\gebase alpha 0.2.1\bin\Debug\MongoDB.Bson.xml
+C:\Users\rootah\documents\visual studio 2012\Projects\gebase alpha 0.2.1\gebase alpha 0.2.1\bin\Debug\MongoDB.Driver.pdb
+C:\Users\rootah\documents\visual studio 2012\Projects\gebase alpha 0.2.1\gebase alpha 0.2.1\bin\Debug\MongoDB.Driver.xml
+C:\Users\rootah\documents\visual studio 2012\Projects\gebase alpha 0.2.1\gebase alpha 0.2.1\obj\Debug\gebase_alpha_0._2._1.groupform.resources
+C:\Users\rootah\documents\visual studio 2012\Projects\gebase alpha 0.2.1\gebase alpha 0.2.1\obj\Debug\gebase_alpha_0._2._1.MainAppForm.resources
+C:\Users\rootah\documents\visual studio 2012\Projects\gebase alpha 0.2.1\gebase alpha 0.2.1\obj\Debug\gebase_alpha_0._2._1.Properties.Resources.resources
+C:\Users\rootah\documents\visual studio 2012\Projects\gebase alpha 0.2.1\gebase alpha 0.2.1\obj\Debug\gebase_alpha_0._2._1.studentform.resources
+C:\Users\rootah\documents\visual studio 2012\Projects\gebase alpha 0.2.1\gebase alpha 0.2.1\obj\Debug\gebase alpha 0.2.1.csproj.GenerateResource.Cache
+C:\Users\rootah\documents\visual studio 2012\Projects\gebase alpha 0.2.1\gebase alpha 0.2.1\obj\Debug\gebase alpha 0.2.1.exe.licenses
+C:\Users\rootah\documents\visual studio 2012\Projects\gebase alpha 0.2.1\gebase alpha 0.2.1\obj\Debug\gebase alpha 0.2.1.exe
+C:\Users\rootah\documents\visual studio 2012\Projects\gebase alpha 0.2.1\gebase alpha 0.2.1\obj\Debug\gebase alpha 0.2.1.pdb
+C:\Users\rootah\documents\visual studio 2012\Projects\gebase alpha 0.2.1\gebase alpha 0.2.1\bin\Debug\gebase alpha 0.2.1.exe.CodeAnalysisLog.xml
+C:\Users\rootah\documents\visual studio 2012\Projects\gebase alpha 0.2.1\gebase alpha 0.2.1\bin\Debug\gebase alpha 0.2.1.exe.lastcodeanalysissucceeded

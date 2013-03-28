@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="gebase_alpha_0._2._1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RibbonTabIndex" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="GroupFilterFlag" Type="System.String" Scope="User">
+      <Value Profile="(Default)">all</Value>
+    </Setting>
+    <Setting Name="ServerOne" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mongodb://127.0.0.1:27017</Value>
+    </Setting>
+    <Setting Name="ServerTwo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mongodb://192.168.135.108:27017</Value>
+    </Setting>
+    <Setting Name="ServerThree" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="GroupSortDirection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">asc</Value>
+    </Setting>
+    <Setting Name="GroupSortField" Type="System.String" Scope="User">
+      <Value Profile="(Default)">number</Value>
+    </Setting>
+    <Setting Name="GroupSelectedRowIndex" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="GroupFormType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">add</Value>
+    </Setting>
+    <Setting Name="GroupTime" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="StdFormType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">add</Value>
+    </Setting>
+    <Setting Name="StdFilterFlag" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="GroupDetailsShow" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CurrentGroupStatus" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CurrentGroupNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
